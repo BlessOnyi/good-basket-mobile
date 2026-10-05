@@ -8,6 +8,11 @@
     "userInterfaceStyle": "light",
     "android": {
       "package": "com.goodbasket.shop"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "8123e882-a011-47af-b4a7-96c76ecc2b07"
+      }
     }
   }
 }
