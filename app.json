@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "Good Basket",
+    "slug": "good-basket-mobile",
+    "version": "1.0.0",
+    "scheme": "goodbasket",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "android": {
+      "package": "com.goodbasket.shop"
+    }
+  }
+}

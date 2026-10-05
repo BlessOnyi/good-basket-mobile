@@ -1,0 +1,25 @@
+{
+  "name": "good-basket-mobile",
+  "version": "1.0.0",
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "build:apk": "npx eas-cli build --platform android --profile preview"
+  },
+  "dependencies": {
+    "@react-native-async-storage/async-storage": "2.2.0",
+    "@supabase/supabase-js": "^2.57.0",
+    "expo": "~57.0.26",
+    "expo-linking": "~57.0.11",
+    "expo-web-browser": "~57.0.3",
+    "react": "19.3.0",
+    "react-native": "0.87.1",
+    "react-native-url-polyfill": "^2.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "~19.2.0",
+    "typescript": "~5.9.2"
+  }
+}

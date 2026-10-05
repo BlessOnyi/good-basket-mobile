@@ -1,0 +1,8 @@
+node_modules/
+.expo/
+.expo-home/
+.env
+dist/
+*.apk
+android/
+ios/
